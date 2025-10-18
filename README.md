@@ -1,3 +1,10 @@
+## Authors                 ADM
+KIIO EMMANUEL KEITH      PA106/G/22270/24
+MUTISO ERIC MBALUKA       PA106/G/21817/24
+MORRIS MACHARIA           PA106/G/21560/24
+SAMUEL MWANGI             PA106/G/21386/24
+
+
   Number System Converter
 A simple web-based tool to convert numbers between **Binary**, **Octal**, **Decimal**, and **Hexadecimal** systems.
 
